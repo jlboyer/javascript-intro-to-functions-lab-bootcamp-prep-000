@@ -1,4 +1,4 @@
-phrase = "what?";
+let phrase = "what?";
 
 function shout(word) {
   return(toUpperCase(word));
