@@ -1,7 +1,7 @@
 let phrase = "what?";
 
 function shout(word) {
-  return(toUpperCase(word));
+  return(word.toUpperCase();
 }
 
 console.log(shout(phrase));
