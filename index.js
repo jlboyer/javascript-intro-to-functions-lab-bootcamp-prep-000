@@ -1,4 +1,4 @@
-let phrase = "what?";
+let phrase = "I love you, Grandma.";
 
 shout(phrase);
 whisper(phrase);
