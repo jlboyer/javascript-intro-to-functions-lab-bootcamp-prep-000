@@ -1,5 +1,11 @@
 let phrase = "what?";
 
+shout(phrase);
+whisper(phrase);
+logShout(phrase);
+logWhisper(phrase);
+sayHiToGrandma(phrase);
+
 function shout(input) {
   return(input.toUpperCase())
 };
