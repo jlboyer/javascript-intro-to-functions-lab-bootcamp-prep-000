@@ -1,7 +1,7 @@
-let phrase = "what?"
+let phrase = "what?";
 
 function shout(word) {
   return(word.toUpperCase()
-}
+};
 
-console.log(shout(phrase))
+console.log(shout(phrase));
